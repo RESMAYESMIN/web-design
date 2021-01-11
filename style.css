@@ -1,0 +1,75 @@
+
+.top{
+    background-color:#0d5170;
+    height: 4px;
+    color: white;
+    height: 60px;
+    text-align: center;
+    padding: 5px;
+    margin: 10px; 
+    border-top: 5px solid turquoise;
+
+}
+.coto{
+    color:#0d5170;
+}
+.para{
+    background-color: turquoise;
+    border: 3px solid rgb(9, 43, 58);
+    text-align:center;
+    padding:15px;
+    margin:15px;
+    float:center;
+    display: inline-block;
+}
+
+.list1{
+    background-color:orange ;
+    color: black;
+    border-radius: 0px 50px 50px 0px;
+    box-shadow: 4px 4px 10px turquoise;
+    text-align: center;
+    height:150px;
+    width:600px;
+    padding:30px;
+    margin:20px;
+    border-left: 5px solid turquoise;
+    display:inline-block;
+    float:left;
+}
+.list3{
+    background-color:rgb(23, 201, 192) ;
+    color: black;
+    border-radius: 0px 50px 50px 0px;
+    box-shadow: 4px 4px 10px;
+    text-align: center;
+    height: 150px;
+    width: 650px;
+    padding:30px;
+    margin: 20px;
+    border-left: 5px solid rgb(138, 34, 129);
+    display: inline-block;
+    float: right;
+}
+.list2{
+    background-color:tomato ;
+    color: black;
+    border-radius: 70px 70px 0px 0px;
+    box-shadow: 4px 4px 10px;
+    text-align: center;
+    height: 250px;
+    width: 230px;
+    padding:20px;
+    margin: 30px;
+    display: inline-block;
+    float:center;
+}
+footer{
+    background-color: rgb(4, 49, 87);
+    color: white;
+    padding: 10px;
+    margin:20px;
+    text-align: center;
+    border-top: 2px solid cyan;
+
+}
